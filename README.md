@@ -1,19 +1,21 @@
 <!--
-  GitHub Profile README for: Sahil Gupta  (@automationaimascotspincontrol-art)
-  → Place this file at  github.com/automationaimascotspincontrol-art/automationaimascotspincontrol-art  as  README.md
+  GitHub Profile README for: Sahil Gupta
+  Account: automationaimascotspincontrol-art
+  → Lives at  github.com/automationaimascotspincontrol-art/automationaimascotspincontrol-art  as  README.md
+  NOTE: all widgets use LIVE hosts (demolab.com / vercel.app) — Heroku free dynos are dead.
 -->
 
 <a name="top"></a>
 
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FF8C00,100:FF6B00&height=240&section=header&text=Sahil%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Quant%20Researcher&descSize=18&descAlignY=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,50:FF8C00,100:FF6B00&height=250&section=header&text=Sahil%20Gupta&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Quant%20Researcher&descSize=18&descAlignY=60&animation=fadeIn"/>
 </p>
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
   <a href="https://github.com/automationaimascotspincontrol-art">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3200&pause=900&color=FFA500&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Sahil+Gupta;AI+Engineer+%E2%80%A2+Data+Scientist;Quant+Research+Enthusiast;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Automation;Python+%E2%80%A2+FastAPI+%E2%80%A2+React;Building+Scalable+AI+%26+Data+Systems+%F0%9F%9A%80"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3200&pause=900&color=FFA500&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sahil+Gupta;AI+Engineer+%E2%80%A2+Data+Scientist;Quant+Research+Enthusiast;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Automation;Python+%E2%80%A2+FastAPI+%E2%80%A2+React;Building+Scalable+AI+%26+Data+Systems+%F0%9F%9A%80"/>
   </a>
 </p>
 
@@ -38,21 +40,22 @@
   <a href="https://pypi.org/project/vectorquant/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/></a>
 </p>
 
-<br/>
+<!-- gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FF8C00,100:FF6B00&height=3&section=header"/>
 
 <!-- ===================== ABOUT ===================== -->
-<img align="right" width="330" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="robot"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="robot"/>
 
 ## 🧠 About Me
 
 ```yaml
-name:        Sahil Gupta
-role:        AI Engineer / Data Scientist
-focus:       LLMs · RAG · AI Automation
-domain:      Quantitative Finance & Financial ML
-building:    VectorQuant — Python ML library
-stack:       Python · FastAPI · React
-mindset:     "Ship scalable, measurable, intelligent systems."
+name:      Sahil Gupta
+role:      AI Engineer / Data Scientist
+focus:     LLMs · RAG · AI Automation
+domain:    Quantitative Finance & Financial ML
+building:  VectorQuant — Python ML library
+stack:     Python · FastAPI · React
+mindset:   "Ship scalable, measurable, intelligent systems."
 ```
 
 - 🤖 Engineering **LLM, RAG & AI-Automation** systems end-to-end
@@ -63,22 +66,22 @@ mindset:     "Ship scalable, measurable, intelligent systems."
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,50:FF8C00,100:FFA500&height=3&section=header"/>
 
 <!-- ===================== FOCUS / INTERESTS ===================== -->
 ## 🎯 Research & Interests
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">📈<br/><b>Quantitative<br/>Finance</b></td>
-    <td align="center">🧮<br/><b>Financial<br/>Machine Learning</b></td>
-    <td align="center">⚙️<br/><b>Algorithmic<br/>Trading</b></td>
-    <td align="center">📊<br/><b>Statistical<br/>Modeling</b></td>
-    <td align="center">🤖<br/><b>AI for<br/>Markets</b></td>
+    <td align="center" width="150">📈<br/><b>Quantitative<br/>Finance</b></td>
+    <td align="center" width="150">🧮<br/><b>Financial<br/>Machine Learning</b></td>
+    <td align="center" width="150">⚙️<br/><b>Algorithmic<br/>Trading</b></td>
+    <td align="center" width="150">📊<br/><b>Statistical<br/>Modeling</b></td>
+    <td align="center" width="150">🤖<br/><b>AI for<br/>Markets</b></td>
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FF8C00,100:FF6B00&height=3&section=header"/>
 
 <!-- ===================== VECTORQUANT ===================== -->
 ## 📦 Featured Project — `VectorQuant`
@@ -99,50 +102,25 @@ pip install vectorquant
 ```python
 from vectorquant import VectorQuant
 
-vq = VectorQuant(k=256)      # 256-cluster codebook
-vq.fit(data)                 # learn the quantizer
+vq = VectorQuant(k=256)             # 256-cluster codebook
+vq.fit(data)                        # learn the quantizer
 
-compressed = vq.encode(data) # → compact codes
+compressed = vq.encode(data)        # → compact codes
 decoded    = vq.decode(compressed)  # ← reconstruct
 ```
 
 🔗 **PyPI:** https://pypi.org/project/vectorquant/
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,50:FF8C00,100:FFA500&height=3&section=header"/>
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ===================== TECH STACK (skillicons — animated/clean) ===================== -->
 ## 🛠️ Tech Stack
 
-**Languages & Core**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,sklearn,fastapi,react,nodejs,docker,gcp,postgres,mongodb,git,linux&theme=dark&perline=7"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI / ML / Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Backend & Frontend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Infra & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FF8C00,100:FF6B00&height=3&section=header"/>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
@@ -153,12 +131,22 @@ decoded    = vq.decode(compressed)  # ← reconstruct
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=automationaimascotspincontrol-art&hide_border=true&background=0d1117&stroke=FF8C00&ring=FFA500&fire=FF6B00&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
+  <img src="https://streak-stats.demolab.com?user=automationaimascotspincontrol-art&hide_border=true&background=0d1117&stroke=FF8C00&ring=FFA500&fire=FF6B00&currStreakLabel=FF8C00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
+</p>
+
+<!-- ===================== SUMMARY CARDS (unique) ===================== -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=automationaimascotspincontrol-art&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=automationaimascotspincontrol-art&theme=github_dark"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=automationaimascotspincontrol-art&theme=github_dark&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=automationaimascotspincontrol-art&theme=github_dark"/>
 </p>
 
 <!-- ===================== TROPHIES ===================== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=automationaimascotspincontrol-art&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=automationaimascotspincontrol-art&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 </p>
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
@@ -168,23 +156,21 @@ decoded    = vq.decode(compressed)  # ← reconstruct
 
 <!-- ===================== SNAKE ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/automationaimascotspincontrol-art/automationaimascotspincontrol-art/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,50:FF8C00,100:FFA500&height=3&section=header"/>
 
 <!-- ===================== QUOTE ===================== -->
 ## 💡 Dev Philosophy
 
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&quoteType=machineLearning" alt="quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
 </p>
-
----
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FF8C00,100:FFA500&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FF8C00,100:FFA500&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=fadeIn"/>
 </p>
 
-<p align="center">⭐️ From <b>Sahil Gupta</b> — thanks for stopping by! <a href="#top">Back to top ↑</a></p>
+<p align="center">⭐️ From <b>Sahil Gupta</b> &nbsp;•&nbsp; <a href="#top">Back to top ↑</a></p>
